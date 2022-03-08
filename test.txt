@@ -10,4 +10,4 @@ feature 2 change, feature 2 change another
 
 feat 4 change, feat 4 change another
 
-feat 3 change
+feat 3 change, feat 3 change another
