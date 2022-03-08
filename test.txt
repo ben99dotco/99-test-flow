@@ -8,4 +8,4 @@ feature 1 change, feature 1 change another
 
 feature 2 change, feature 2 change another
 
-feat 4 change
+feat 4 change, feat 4 change another
